@@ -38,15 +38,6 @@ print(tabString.expandtabs(4))
 print(tabString.expandtabs(8))
 print(tabString.expandtabs(12))
 
-#FORMAT STRINGS
-'''letter = "Hello, my name is {1} and I am from {0}"
-name = "Roshan"
-country = "Nepal"
-cash = 4000.00987
-# print(f"Hello, my name is {name} and I am from {country} and I have Rs{cash:.3f}")
-print(f"Hello, my name is {{name}} and I am from {{country}} and I have Rs{cash:.3f}")'''
-# print(letter.format(country, name))
-
 #ESCAPE CHARACTER
 # print('I\'ll call you later')
 # print('I\'ll call you \nlater')  # \n is used for new line
