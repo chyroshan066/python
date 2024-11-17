@@ -37,10 +37,3 @@ print(tabString.expandtabs())
 print(tabString.expandtabs(4))
 print(tabString.expandtabs(8))
 print(tabString.expandtabs(12))
-
-#ESCAPE CHARACTER
-# print('I\'ll call you later')
-# print('I\'ll call you \nlater')  # \n is used for new line
-# print('I\'ll call you \tlater')  # \t is used for tab
-'''x = "no___benefit of study\rHuge_benefit"
-print(x)'''
