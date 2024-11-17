@@ -1,18 +1,5 @@
 # print("Hello World")
 
-# *************************************Global Variable***********************************************
-'''x = "awesome"  # Global Variable
-print("Python is " + x)
-
-def myfunc():
-    # x = "fantastic"  # Local Variable
-    global x  # Using global keyword to change the global variable
-    x = "fantastic"
-    # print("Python is " + x)
-
-myfunc()
-print("Python is " + x)'''
-
 # ***************************************Program to add two input numbers******************************************
 '''num1 = input("Enter the first number: ")
 num2 = input("Enter the second number: ")
