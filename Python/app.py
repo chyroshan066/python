@@ -1,10 +1,5 @@
 # print("Hello World")
 
-# ***************************************Program to add two input numbers******************************************
-'''num1 = input("Enter the first number: ")
-num2 = input("Enter the second number: ")
-print("Sum = ", float(num1) + float(num2))'''
-
 # **************************************************Strings*******************************************************
 # MULTILINE STRINGS
 '''multilineString = ("Learning the ins and outs of advanced Jira functionalities, from detailed project tracking to customized workflows, "
