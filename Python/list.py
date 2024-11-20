@@ -16,6 +16,20 @@ names = ["Roshan", "Prachit", "Sandip", "Prayush", "Sandesh"]
 # CHANGING RANGE OF VALUES IN LIST
 # names[1:3] = ["Mahesh", "Ganesh"]
 # names[1:3] = ["Mahesh", "Ganesh", "Prabesh"]  # Inserting items more than specified
-names[1:3] = ["Mahesh"]  # Inserting items less than specified
+# names[1:3] = ["Mahesh"]  # Inserting items less than specified
 
-print(names)
+# print(names)
+
+# 2 DIMENSIONAL LISTS
+numbers = [
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9]
+]
+# numbers[0][2] = 40  # Accessing elements of 2 dimensional list
+# print(numbers[0][2])
+
+# Acessing elements of 2 dimensional matrix list using for loop
+for row in numbers:
+    for item in row:
+        print(item)
