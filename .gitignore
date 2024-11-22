@@ -1,2 +1,4 @@
 .idea/
 .venv/
+.module/__pycache__/
+.finding_greatest_number/__pycache__/
