@@ -85,6 +85,7 @@ print(new_dict)'''
 # print(dictionary.setdefault('name'))  # Returns the value of the key if it is present
 # print(dictionary.setdefault('school'))  # If the key is not present then it will not return any value but add that key to the dictionary. If value is not mentioned then it will assign "None" to that key
 # print(dictionary.setdefault('school', 'Abacus'))  # When value is specified then it will assign that value to that key in case the key is not present
-print(dictionary.setdefault('name', 'Abacus'))
+# print(dictionary.setdefault('name', 'Abacus'))
 
+dictionary = {x: x**2 for x in range(10)}
 print(dictionary)
